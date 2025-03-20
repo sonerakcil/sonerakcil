@@ -6,7 +6,7 @@ HW1-Q3: https://raw.githubusercontent.com/sonerakcil/sonerakcil/refs/heads/main/
 
 Hw1-Q4a: https://raw.githubusercontent.com/sonerakcil/sonerakcil/refs/heads/main/Hw1-Q4a.c 
 
-Hw1-Q4b:
+Hw1-Q4b: https://raw.githubusercontent.com/sonerakcil/sonerakcil/refs/heads/main/Hw1-Q4b.c
 
 <!--
 **sonerakcil/sonerakcil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
