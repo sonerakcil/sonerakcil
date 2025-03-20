@@ -7,6 +7,7 @@ void computeHomeValue(void);
 int main(){
 	
 	computeHomeValue();
+	return 0;
 }
 
 
@@ -21,6 +22,5 @@ void computeHomeValue(){
 	
 	printf("Home value is %d", HomeValue);
 	
-	return 0;
 }
 
